@@ -1,0 +1,7 @@
+generated
+meili_data
+node_modules
+deployment.yaml
+deploy.sh
+assets
+.env
